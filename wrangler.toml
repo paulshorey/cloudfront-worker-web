@@ -1,0 +1,8 @@
+name = "web"
+account_id = "c54cc4d7f6317b833f5cc02d7172f245" # scraper.workers.dev
+workers_dev = true
+node_compat = true
+compatibility_date = "2022-12-14"
+
+# The necessary secrets are:
+# echo <VALUE> | wrangler secret put <NAME>
